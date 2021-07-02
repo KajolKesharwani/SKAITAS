@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SKAITAS</string>
+    <string name="board_of_advisors">-:| Board of Advisors |:-</string>
+    <string name="ashish_kulkarni">Ashish Kulkarni</string>
+    <string name="associate_professor">Associate professor</string>
+    <string name="dr_ashish_kulkarni">Dr.Ashish Kulkarni</string>
 </resources>
